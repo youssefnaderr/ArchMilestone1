@@ -1,0 +1,15 @@
+Journal - Youssef Nader (ID: 900226170)
+
+April 1, 2025: Started development of the ALU control unit.
+
+April 2, 2025: Completed the ALU control unit.
+
+April 4, 2025: Developed the shifter module.
+
+April 4, 2025: Worked on the control unit.
+
+April 6, 2025: Started the overall datapath design.
+
+April 9, 2025: Created and tested instruction test cases.
+
+April 10, 2025: Worked on the project report and documentation.
