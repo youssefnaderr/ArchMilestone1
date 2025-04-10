@@ -1,0 +1,15 @@
+Journal - Youssef Attallah (ID: 900221247)
+
+April 3, 2025: Started working on the Datapath to cover all the 42 instructions
+
+April 6, 2025: Completed the Branch Control.
+
+April 6, 2025: Developed the Connections in the top and all the MUXs.
+
+April 8, 2025: Updated the Data Memory.
+
+April 9, 2025: Fixed errors in the control unit, ALU control and the Top.
+
+April 10, 2025: Debugging and finalizing the code.
+
+April 10, 2025: Worked on the project report and documentation.
